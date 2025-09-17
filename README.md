@@ -20,7 +20,7 @@
     <a href="https://www.youtube.com/@elian-q4u7u"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://2elian.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://github.com/2Elian/2Elian/blob/main/assets/images/3abf686366668f8dd26e8d63223de1f.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://space.bilibili.com/1919505505"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
 
   </div>
 
@@ -55,19 +55,18 @@
 
 - [ByteDance](https://lusun.com/) &emsp; 📌 2025-06 —— 2025-09
 
-  - 工作岗位：LLM算法实习生
-  - 工作内容：LLM在搜推方面的应用
+  - Position: LLM Algorithm Intern
+  - Job Description: Applying LLM to search and push notifications
 
 - [VIVO](https://lusun.com/) &emsp; 📌 2025-06 —— 2025-09
 
-  - 工作岗位：助理算法工程师
-  - 工作内容：LLM训练部署、Java工程开发
+  - Position: Assistant Algorithm Engineer
+  - Responsibilities: LLM training deployment, Java engineering development
 
 - [南信大影像工程技术有限公司](https://www.nio.cn/) &emsp; 📌 2024-07 —— 2025-05
 
-  - 工作岗位：LLM算法实习生
-  - 工作内容：独立开发设计RAG工程与LLM微调
-
+  - Position: LLM Algorithm Intern
+  - Responsibilities: Independently develop and design RAG engineering and LLM fine-tuning
 </td></tr>
 
 <tr><td>
