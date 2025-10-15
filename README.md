@@ -51,26 +51,6 @@
 
 <tr><td>
 
-### 🏢 Work Experience
-
-- [ByteDance](https://lusun.com/) &emsp; 📌 2025-06 —— 2025-09
-
-  - Position: LLM Algorithm Intern
-  - Job Description: Applying LLM to search and push notifications
-
-- [VIVO](https://lusun.com/) &emsp; 📌 2025-06 —— 2025-09
-
-  - Position: Assistant Algorithm Engineer
-  - Responsibilities: LLM training deployment, Java engineering development
-
-- [南信大影像工程技术有限公司](https://www.nio.cn/) &emsp; 📌 2024-07 —— 2025-05
-
-  - Position: LLM Algorithm Intern
-  - Responsibilities: Independently develop and design RAG engineering and LLM fine-tuning
-</td></tr>
-
-<tr><td>
-
 ### 📃 Recent Blog
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
