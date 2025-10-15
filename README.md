@@ -41,9 +41,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://github.com/2Elian/2Elian/blob/main/assets/images/lzm.jpg" />
-
-<p>&emsp;&emsp;Hello, my name is Elian. I am currently pursuing a master's degree at Nanjing University of Information Science and Technology. My research interests lie in LLM and reinforcement learning.</p>
+<p>&emsp;&emsp;Hello, my name is zimo Li. I am currently pursuing a master's degree at Nanjing University of Information Science and Technology. My research interests lie in LLM and reinforcement learning.</p>
 <p>&emsp;&emsp;Love LLM and coding, hope to become an excellent LLM algorithm development engineer</p>
 <p>&emsp;&emsp;<strong>I firmly believe that one day artificial intelligence will become an integral part of our lives.</strong></p>
 
