@@ -41,7 +41,7 @@
 
 ### 🤺 About Me
 
-<p>&emsp;&emsp;Hello, my name is zimo Li. I am currently pursuing a master's degree at Nanjing University of Information Science and Technology. My research interests lie in LLM and reinforcement learning.</p>
+<p>&emsp;&emsp;Hello, my name is zimo Li. I am currently pursuing a master's degree at Nanjing University of Information Science and Technology. My research interests lie in Agent and LLM Post-Training.</p>
 <p>&emsp;&emsp;Love LLM and coding, hope to become an excellent LLM algorithm development engineer</p>
 <p>&emsp;&emsp;<strong>I firmly believe that one day artificial intelligence will become an integral part of our lives.</strong></p>
 
@@ -54,9 +54,9 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- [From Policy Gradient (PG) to Group Sequence Policy Optimization (GSPO): Some Thoughts on RLHF](https://2elian.github.io/project/rltall/)
-- [HARP: Hallucination Detection Via Reasoning Subspace Projection](https://2elian.github.io/project/paperharp/)
-- [Service material writing system based on RAG and NL2SQL fusion architecture](https://2elian.github.io/project/cosmetics/)
+- [From Policy Gradient (PG) to Group Sequence Policy Optimization (GSPO): Some Thoughts on RLHF](https://elian.net.cn/article/1)
+- [Struct2Diagram: Translating Structured Reasoning into Visual Representations](https://2elian.github.io/project/paperharp/)
+- [VPER: Validator-Augmented Plan-Execute-Replan for Reliable Data Analysis Agents](https://2elian.github.io/project/cosmetics/)
 <!-- feed end -->
 
 </td></tr>
